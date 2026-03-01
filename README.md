@@ -1,1 +1,1 @@
-# Shop_Project_Microservices-K8S-
+# Shop_Project_Microservices-K8S
